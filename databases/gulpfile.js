@@ -11,3 +11,11 @@ gulp.task("c5-get-guttenberg", shell.task(
     'tar -xvjf rdf-files.tar.bz2'
 ));
 
+gulp.task("pre-install", shell.task([
+  "npm i -g gulp static-server",
+  "npm install -g gulp-shell",
+  "npm install",
+]));
+
+gulp.task("default", shell.task("npm test"));
+gulp.task("watch", shell.task("npm run test:watch"));

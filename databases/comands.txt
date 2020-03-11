@@ -1,0 +1,925 @@
+    1  sudo su
+    2  ls
+    3  cd PL/
+    4  cd P0_esprima/
+    5  ls
+    6  vi logging-espree.js 
+    7  node logging-espree.js 
+    8  vi logging-espree.js 
+    9  node logging-espree.js 
+   10  vi logging-espree.js 
+   11  node logging-espree.js 
+   12  vi logging-espree.js 
+   13  node logging-espree.js 
+   14  vi logging-espree.js 
+   15  node logging-espree.js 
+   16  vi logging-espree.js 
+   17  node logging-espree.js 
+   18  vi logging-espree.js 
+   19  node logging-espree.js 
+   20  vi logging-espree.js 
+   21  node logging-espree.js 
+   22  vi logging-espree.js 
+   23  node logging-espree.js 
+   24  git status
+   25  git add .
+   26  git commit -m "Parámetros mostrados sigiendo el ast"
+   27  exit
+   28  cd PL
+   29  cd P0_esprima/
+   30  ls
+   31  vi logging-espree.js 
+   32  node logging-espree.js 
+   33  vi logging-espree.js 
+   34  node logging-espree.js 
+   35  vi logging-espree.js 
+   36  ./logging-espree.js
+   37  vi logging-espree.js 
+   38  ./logging-espree.js
+   39  node logging-espree.js 
+   40  vi logging-espree.js 
+   41  node logging-espree.js 
+   42  vi logging-espree.js 
+   43  node logging-espree.js 
+   44  vi logging-espree.js 
+   45  node logging-espree.js 
+   46  vi logging-espree.js 
+   47  node -v
+   48  npm update npm -g
+   49  node -v
+   50  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
+   51  nvm install node
+   52  sudo apt install nvm
+   53  sudo apt-GET install nvm
+   54  sudo apt-get install nvm
+   55  nvm install node
+   56  vi logging-espree.js 
+   57  node logging-espree.js 
+   58  exit
+   59  cd PL/
+   60  cd P0_esprima/
+   61  nvm instal node
+   62  nvm install node
+   63  node -v
+   64  git status
+   65  git add .
+   66  git log
+   67  git commit -m "Se muestra un mensaje cuando no hay parámetros"
+   68  vi README.md
+   69  git add .
+   70  git commit -m "Añadiendo README.md"
+   71  git push pl00 master 
+   72  vi README.md 
+   73  git add .
+   74  git commit -.
+   75  git commit -m "Mejora del README.md"
+   76  git push pl00 master 
+   77  npm --version
+   78  npm init
+   79  ls
+   80  cat package.json 
+   81  git add .
+   82  git commit -m "Añadido el package.json"
+   83  git push pl00 master 
+   84  cd ..
+   85  git clone https://github.com/ULL-ESIT-PL-1920/p0-t0-esprima-logging-carlosdiazc99.git
+   86  cd P0_esprima/
+   87  ls
+   88  git status
+   89  git push pl00 master 
+   90  cd ..
+   91  rm -r P0_esprima/
+   92  rm -ar P0_esprima/
+   93  rm --help
+   94  rm -fr P0_esprima/
+   95  ls
+   96  cd p0-t0-esprima-logging-carlosdiazc99/
+   97  npm init
+   98  git add .
+   99  git commit -m "Añadido el package.json"
+  100  git push origin master 
+  101  EXIT
+  102  exit
+  103  ls
+  104  cd PL/
+  105  ls
+  106  cd p0-t0-esprima-logging-carlosdiazc99/
+  107  ls
+  108  vi package.json 
+  109  cd node_modules/
+  110  cd ..
+  111  npm install espree
+  112  ls
+  113  npm installextraverse
+  114  npm install extraverse
+  115  ls
+  116  vi package-lock.json 
+  117  vi package
+  118  vi package.json 
+  119  cd node_modules/
+  120  ls
+  121  cd ..
+  122  rm -rf node_modules/
+  123  rm package.json 
+  124  rm package-lock.json 
+  125  ls
+  126  nmp int
+  127  nmp init
+  128  init npm
+  129  npm init
+  130  npm init -f
+  131  ls
+  132  npm install espree
+  133  npm install extraverse
+  134  sudo npm install estraverse
+  135  ls
+  136  vi logging-espree.js 
+  137  npm install escodegen
+  138  ls
+  139  vi package.json 
+  140  vi package-lock.json 
+  141  npm install comander
+  142  npm install fs
+  143  vi logging-espree.js 
+  144  ls
+  145  node logging-espree.js 
+  146  vi package.json 
+  147  vi logging-espree.js 
+  148  node logging-espree.js 
+  149  npm install commander
+  150  vi logging-espree.js 
+  151  node logging-espree.js 
+  152  vi logging-espree.js 
+  153  node logging-espree.js 
+  154  vi logging-espree.js 
+  155  node logging-espree.js 
+  156  vi logging-espree.js 
+  157  node logging-espree.js 
+  158  vi logging-espree.js 
+  159  node logging-espree.js 
+  160  vi logging-espree.js 
+  161  ls
+  162  chmod logging-espree.js 700
+  163  chmod -a 700 logging-espree.js
+  164  chmod a 700 logging-espree.js
+  165  chmod 700 logging-espree.js
+  166  ls
+  167  ./logging-espree.js 
+  168  vi logging-espree.js 
+  169  ./logging-espree.js 
+  170  ./logging-espree.js -v
+  171  vi package.json 
+  172  ./logging-espree.js -v
+  173  vi package.json 
+  174  ./logging-espree.js -v
+  175  node logging-espree.js -v
+  176  vi logging-espree.js 
+  177  ./logging-espree.js -v
+  178  vi logging-espree.js 
+  179  ./logging-espree.js 
+  180  vi logging-espree.js 
+  181  ./logging-espree.js 
+  182  ./logging-espree.js -v
+  183  ./logging-espree.js --version
+  184  vi logging-espree.js 
+  185  ./logging-espree.js --version
+  186  ./logging-espree.js --v
+  187  ./logging-espree.js -v
+  188  vi logging-espree.js 
+  189  ./logging-espree.js -v
+  190  ./logging-espree.js v
+  191  vi logging-espree.js 
+  192  ./logging-espree.js --version
+  193  vi logging-espree.js 
+  194  git status
+  195  vi .gitignore
+  196  git status
+  197  vi .gitignore 
+  198  git add .
+  199  git commit -m "Añadido el .gitignore y mejora código" 
+  200  git push origin master 
+  201  git rm --cached node_modules/
+  202  git rm -r --cached node_modules/
+  203  ls
+  204  git status
+  205  git add .
+  206  git commit -m "Eliminado node_module"
+  207  git push origin master 
+  208  exit
+  209  ls
+  210  node
+  211  vi program.js
+  212  node program.js 
+  213  vi program.js
+  214  node program.js 
+  215  vi program.js
+  216  node
+  217  exit
+  218  LS
+  219  ls
+  220  cd p0-t0-esprima-logging-carlosdiazc99/
+  221  ls
+  222  v  exit
+  223  exit
+  224  LS
+  225  ls
+  226  rm -rf p0-t0-esprima-logging-carlosdiazc99/
+  227  git clone https://github.com/ULL-ESIT-PL-1920/p0-t0-esprima-logging-carlosdiazc99.git
+  228  cd p0-t0-esprima-logging-carlosdiazc99/
+  229  ./logging-espree.js input.js -o output.js 
+  230  npm i
+  231  ./logging-espree.js input.js -o output.js 
+  232  npm install esprima
+  233  ./logging-espree.js input.js -o output.js 
+  234  vi logging-espree.js 
+  235  ls
+  236  node logging-espree.js 
+  237  ./logging-espree.js 
+  238  ./logging-espree.js -V
+  239  ./logging-espree.js -h
+  240  ./logging-espree.js input.js 
+  241  ./logging-espree.js input.js -o output.js 
+  242  vi logging-espree.js 
+  243  vi input.js 
+  244  ./logging-espree.js input.js -o output.js 
+  245  vi input.js 
+  246  ./logging-espree.js input.js -o output.js 
+  247  cat output.js 
+  248  node output.js 
+  249  vi input.js 
+  250  ./logging-espree.js input.js -o output.js 
+  251  node output.js 
+  252  vi input.js 
+  253  ./logging-espree.js input.js -o output.js 
+  254  cat output.js 
+  255  node output.js 
+  256  git status
+  257  git add .
+  258  git commit -m "Últimos cambios realizados"
+  259  git add .
+  260  git push origin master 
+  261  exit
+  262  ls
+  263  mkdir modif
+  264  cd modif/
+  265  git clone https://github.com/ULL-ESIT-PL-1920/p0-t0-esprima-logging-carlosdiazc99.git
+  266  cd p0-t0-esprima-logging-carlosdiazc99/
+  267  vi logging-espree.js 
+  268  ./logging-espree.js input.js -o output.js 
+  269  ls
+  270  npm i
+  271  ./logging-espree.js input.js -o output.js 
+  272  vi logging-espree.js 
+  273  node logging-espree.js 
+  274  vi logging-espree.js 
+  275  node logging-espree.js 
+  276  vi logging-espree.js 
+  277  node logging-espree.js 
+  278  vi logging-espree.js 
+  279  ./logging-espree.js input.js -o output.js 
+  280  vi logging-espree.js 
+  281  ./logging-espree.js input.js -o output.js 
+  282  vi logging-espree.js 
+  283  ./logging-espree.js input.js -o output.js 
+  284  cat output.js 
+  285  ./logging-espree.js input.js -o output.js 
+  286  vi logging-espree.js 
+  287  ./logging-espree.js input.js -o output.js 
+  288  cat output.js 
+  289  ./logging-espree.js input.js -o output.js 
+  290  vi logging-espree.js 
+  291  vi input.js 
+  292  vi logging-espree.js 
+  293  ./logging-espree.js input.js -o output.js 
+  294  cat output.js 
+  295  vi logging-espree.js 
+  296  ./logging-espree.js input.js -o output.js 
+  297  cat output.js 
+  298  vi logging-espree.js 
+  299  ./logging-espree.js input.js -o output.js 
+  300  cat output.js 
+  301  vi logging-espree.js 
+  302  ./logging-espree.js input.js -o output.js 
+  303  cat output.js 
+  304  vi logging-espree.js 
+  305  ./logging-espree.js input.js -o output.js 
+  306  cat output.js 
+  307  vi logging-espree.js 
+  308  ./logging-espree.js input.js -o output.js 
+  309  cat output.js 
+  310  vi logging-espree.js 
+  311  ./logging-espree.js input.js -o output.js 
+  312  cat output.js 
+  313  ./logging-espree.js input.js -o output.js 
+  314  vi logging-espree.js 
+  315  ./logging-espree.js input.js -o output.js 
+  316  cat output.js 
+  317  vi logging-espree.js 
+  318  ./logging-espree.js input.js -o output.js 
+  319  cat output.js 
+  320  vi logging-espree.js 
+  321  ./logging-espree.js input.js -o output.js 
+  322  vi logging-espree.js 
+  323  ./logging-espree.js input.js -o output.js 
+  324  cat output.js 
+  325  vi logging-espree.js 
+  326  ./logging-espree.js input.js -o output.js 
+  327  cat output.js 
+  328  vi logging-espree.js 
+  329  ./logging-espree.js input.js -o output.js 
+  330  cat output.js 
+  331  vi logging-espree.js 
+  332  cat output.js 
+  333  ./logging-espree.js input.js -o output.js 
+  334  cat output.js 
+  335  vi logging-espree.js 
+  336  ./logging-espree.js input.js -o output.js 
+  337  cat output.js 
+  338  vi logging-espree.js 
+  339  cat output.js 
+  340  ./logging-espree.js input.js -o output.js 
+  341  cat output.js 
+  342  vi logging-espree.js 
+  343  ./logging-espree.js input.js -o output.js 
+  344  cat output.js 
+  345  vi logging-espree.js 
+  346  ./logging-espree.js input.js -o output.js 
+  347  cat output.js 
+  348  vi logging-espree.js 
+  349  cat output.js 
+  350  ./logging-espree.js input.js -o output.js 
+  351  cat output.js 
+  352  vi logging-espree.js 
+  353  ./logging-espree.js input.js -o output.js 
+  354  vi logging-espree.js 
+  355  ./logging-espree.js input.js -o output.js 
+  356  cat output.js 
+  357  vi logging-espree.js 
+  358  cat output.js 
+  359  ./logging-espree.js input.js -o output.js 
+  360  cat output.js 
+  361  vi logging-espree.js 
+  362  ./logging-espree.js input.js -o output.js 
+  363  cat output.js 
+  364  vi logging-espree.js 
+  365  ./logging-espree.js input.js -o output.js 
+  366  cat output.js 
+  367  vi logging-espree.js 
+  368  ./logging-espree.js input.js -o output.js 
+  369  cat output.js 
+  370  vi logging-espree.js 
+  371  ./logging-espree.js input.js -o output.js 
+  372  vi logging-espree.js 
+  373  exit
+  374  cd modif/
+  375  cd p0-t0-esprima-logging-carlosdiazc99/
+  376  ls
+  377  vi logging-espree.js 
+  378  ./logging-espree.js input.js -o output.js 
+  379  ls
+  380  vi logging-espree.js 
+  381  ./logging-espree.js input.js -o output.js 
+  382  vi logging-espree.js 
+  383  ./logging-espree.js input.js -o output.js 
+  384  npm install
+  385  ./logging-espree.js input.js -o output.js 
+  386  vi logging-espree.js 
+  387  ./logging-espree.js input.js -o output.js 
+  388  ./logging-espree.js 
+  389  vi logging-espree.js 
+  390  ./logging-espree.js 
+  391  node logging-espree.js 
+  392  chmod logging-espree.js 
+  393  chmod 700 logging-espree.js 
+  394  ./logging-espree.js 
+  395  ls
+  396  vi logging-espree.js 
+  397  ./logging-espree.js 
+  398  which nodejs
+  399  ls -al /usr/bin/node
+  400  vi logging-espree.js 
+  401  node logging-espree.js 
+  402  vi logging-espree.js 
+  403  node logging-espree.js 
+  404  node logging-espree.js input.js -o output.js 
+  405  cat output.js 
+  406  vi logging-espree.js 
+  407  node logging-espree.js input.js -o output.js 
+  408  cat output.js 
+  409  vi logging-espree.js 
+  410  node logging-espree.js input.js -o output.js 
+  411  cat output.js 
+  412  vi logging-espree.js 
+  413  vi input.js 
+  414  vi logging-espree.js 
+  415  node logging-espree.js input.js -o output.js
+  416  cat output.js 
+  417  vi logging-espree.js 
+  418  node logging-espree.js input.js -o output.js
+  419  cat output.js 
+  420  vi logging-espree.js 
+  421  node logging-espree.js input.js -o output.js
+  422  cat output.js 
+  423  vi logging-espree.js 
+  424  node logging-espree.js input.js -o output.js
+  425  cat output.js 
+  426  node logging-espree.js input.js -o output.js
+  427  vi logging-espree.js 
+  428  node logging-espree.js input.js -o output.js
+  429  vi logging-espree.js 
+  430  node logging-espree.js input.js -o output.js
+  431  vi logging-espree.js 
+  432  node logging-espree.js input.js -o output.js
+  433  cat input.js 
+  434  vi input.js 
+  435  node logging-espree.js input.js -o output.js
+  436  vi logging-espree.js 
+  437  node logging-espree.js input.js -o output.js
+  438  cat output.js 
+  439  ls
+  440  git remote add modif https://github.com/ULL-ESIT-PL-1920/p0-t0-esprima-logging-reto-carlosdiazc99.git
+  441  git add .
+  442  git commit -m "Reto implementado"
+  443  git push modif master
+  444  exit
+  445  ls
+  446  mkdir P3-Handing-events
+  447  cd P3-Handing-events/
+  448  vi README.md
+  449  ls
+  450  gem install jekyll bundler
+  451  sudo snap install ruby
+  452  sudo apt  install ruby
+  453  gem install jekyll bundler
+  454  sudo gem install jekyll bundler
+  455  jekyll new myblog
+  456  sudo apt install jekyll
+  457  gem install jekyll bundler
+  458  sudo gem install jekyll bundler
+  459  gem update
+  460  gem -h
+  461  gem help
+  462  gem help commands
+  463  gem update
+  464  sudo apt install jekyll
+  465  jekyll new myblog
+  466  cd myblog
+  467  ls
+  468  firefox index.html 
+  469  cd ..
+  470  ls
+  471  rm -rf myblog/
+  472  jekyll new informe
+  473  cd informe/
+  474  ls
+  475  cd ..
+  476  sudo apt-get install bundel
+  477  sudo apt-get install bundler
+  478  gem install jekyll bundler
+  479  sudo apt-get remove ruby
+  480  sudo apt update
+  481  sudo apt upgrade
+  482  ruby -v
+  483  sudo apt  install ruby
+  484  ruby -v
+  485  sudo apt  install rubyGems
+  486  git clone https://github.com/rubygems/rubygems.git
+  487  cd rubygems/
+  488  ls
+  489  ruby setup.rb 
+  490  sudo ruby setup.rb 
+  491  bundler
+  492  cd ..
+  493  bundler -v
+  494  cd rubygems/
+  495  sudo ruby setup.rb 
+  496  exit
+  497  ext install markdownlint
+  498  cmd-k v
+  499  vi ~/.bashrc 
+  500  exit
+  501  CD A
+  502  cd P3-Handing-events/
+  503  vi ~/.bashrc 
+  504  exit
+  505  cd P3-Handing-events/
+  506  vi ~/.bashrc 
+  507  exit
+  508  cd P3-Handing-events/
+  509  vi ~/.bashrc 
+  510  exit
+  511  vi ~/.bashrc 
+  512  vim ~/.vimrc
+  513  cd ~/
+  514  cd ~
+  515  ls
+  516  vi ~/.bashrc 
+  517  exit
+  518  cd p0-t0-esprima-logging-carlosdiazc99/
+  519  pwd
+  520  count
+  521  +COUNT
+  522  COUNT
+  523  ls
+  524  cd
+  525  exit
+  526  cd PL/
+  527  vi ~/.bashrc 
+  528  vi ~/.vimrc 
+  529  ls
+  530  vim ~/.vimrc 
+  531  cd p0-t0-esprima-logging-carlosdiazc99/
+  532  ls
+  533  node logging-espree.js 
+  534  node logging-espree.js  package.json 
+  535  vi algo.js
+  536  vim algo.js
+  537  vim ~/.vimrc 
+  538  vim algo.js
+  539  vim ~/.vimrc 
+  540  mkdir -p ~/.vim/pack/git-plugins/start
+  541  git clone --depth 1 https://github.com/dense-analysis/ale.git ~/.vim/pack/git-plugins/start/ale
+  542  vim algo.js 
+  543  exit
+  544  vim ~/.bashrc 
+  545  exit
+  546  vim ~/.bashrc 
+  547  vi ~/.bashrc 
+  548  vi ~/.vimrc 
+  549  vi ~/.bashrc 
+  550  vi ~/.vimrc 
+  551  mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+  552  vi ~/.vimrc 
+  553  cd ~/.vim/bundle && git clone https://github.com/tpope/vim-sensible.git
+  554  ls
+  555  vi ~/.vimrc 
+  556  cd
+  557  vim algo.js
+  558  cd ~/.vim/bundle/
+  559  vi ~/.vimrc 
+  560  ls
+  561  vi ~/.vimrc 
+  562  cd 
+  563  npm install -g jshint
+  564  cd ~/.vim/bundle/jshint2.vim/
+  565  cd ~/.vim/bundle
+  566  git clone https://github.com/NikolayFrantsev/jshint2.vim.git
+  567  ls
+  568  vi ~/.vimrc
+  569  cd
+  570  vim algo
+  571  vim algo.js
+  572  git clone https://github.com/preservim/nerdtree.git ~/.vim/pack/vendor/start/nerdtree
+  573  vim -u NONE -c "helptags ~/.vim/pack/vendor/start/nerdtree/doc" -c q
+  574  git clone https://github.com/preservim/nerdtree.git ~/.vim/bundle/nerdtree
+  575  vim ~/.vimrc 
+  576  mkdir ~/.vim/colors/
+  577  cd ~/.vim/colors/
+  578  git clone https://github.com/romainl/flattened.git
+  579  ls
+  580  vim ~/.vimrc 
+  581  cd ~/.vim/colors/
+  582  ls
+  583  tree flattened/
+  584  rm -r flattened/
+  585  rm -rf flattened/
+  586  ls
+  587  vim flattened_light.vim
+  588  vim ~/.vimrc 
+  589  cd ~/.vim/colors/
+  590  vim flattened_dark.vim
+  591  vim ~/.vimrc 
+  592  git clone https://github.com/rafi/awesome-vim-colorschemes.git
+  593  tree
+  594  sudo apt install tree
+  595  tree
+  596  cd ..
+  597  mv colors/ colour-template
+  598  ls
+  599  mv colour-template/awesome-vim-colorschemes/colors/ colors
+  600  ls
+  601  vim algo.js
+  602  rm -rf colour-template/
+  603  exit
+  604  vim ~/.vimrc 
+  605  ls
+  606  mkdir TID
+  607  cd TID/
+  608  git clone https://github.com/alu0101121529/proyectoTID.git
+  609  git lfs checkout
+  610  sudo apt-get install git-lfs
+  611  git lfs checkout
+  612  git lfs checkoT
+  613  git lfs checkout
+  614  ls -l
+  615  cd proyectoTID/
+  616  ls
+  617  ls -l
+  618  git lfs checkout
+  619  git fetch
+  620  git lfs checkout
+  621  git lfs fetch
+  622  LS -L
+  623  ld -l
+  624  ls -l
+  625  git lfs checkout
+  626  ls -l
+  627  exit
+  628  vim ~/.bashrc 
+  629  vim algo.js
+  630  exit
+  631  cd P3-Handing-events/
+  632  cd ..
+  633  cd p0-t0-esprima-logging-carlosdiazc99/
+  634  vim logging-espree.js 
+  635  exit
+  636  mkdir PruebasAST
+  637  cd PruebasAST/
+  638  vim pruebas.js
+  639  vim ~/.vimrc 
+  640  vim pruebas.js
+  641  node pruebas.js 
+  642  npm i esprima
+  643  node pruebas.js 
+  644  vim pruebas.js
+  645  node pruebas.js 
+  646  vim pruebas.js
+  647  vim program
+  648  ls
+  649  git clone https://github.com/ULL-ESIT-PL-1920/p0-t0-esprima-logging-carlosdiazc99.git
+  650  cd p0-t0-esprima-logging-carlosdiazc99/
+  651  ls
+  652  npm i
+  653  node logging-espree.js output.js 
+  654  node logging-espree.js input.js 
+  655  node logging-espree.js input.js output.js 
+  656  node logging-espree.js
+  657  node logging-espree.js input.js -o output.js 
+  658  vi output.js 
+  659  vi logging-espree.js 
+  660  cd ..
+  661  ls
+  662  node pruebas.js 
+  663  vi pruebas.js 
+  664  node pruebas.js 
+  665  vi pruebas.js 
+  666  node pruebas.js 
+  667  vi pruebas.js 
+  668  node pruebas.js 
+  669  vi pruebas.js 
+  670  vim code
+  671  vi pruebas.js code 
+  672  node pruebas.js code 
+  673  vi pruebas.js code 
+  674  npm i espree
+  675  vi pruebas.js code 
+  676  node pruebas.js code 
+  677  vi pruebas.js code 
+  678  node pruebas.js code 
+  679  vi pruebas.js code 
+  680  node pruebas.js code
+  681  vi code 
+  682  node pruebas.js code 
+  683  vi pruebas.js 
+  684  node pruebas.js code 
+  685  vi pruebas.js 
+  686  node pruebas.js code 
+  687  vi pruebas.js 
+  688  npm i fs
+  689  node pruebas.js code 
+  690  vi pruebas.js 
+  691  node pruebas.js code 
+  692  vi pruebas.js 
+  693  node pruebas.js code 
+  694  vi pruebas.js 
+  695  node pruebas.js code 
+  696  vi pruebas.js 
+  697  node pruebas.js code 
+  698  vi pruebas.js 
+  699  node pruebas.js code 
+  700  vi pruebas.js 
+  701  node pruebas.js code 
+  702  vi pruebas.js 
+  703  node pruebas.js code 
+  704  vi pruebas.js 
+  705  node pruebas.js code 
+  706  vi pruebas.js 
+  707  node pruebas.js code 
+  708  vi pruebas.js 
+  709  node pruebas.js code 
+  710  node pruebas.js code output
+  711  ls
+  712  cat output 
+  713  ls
+  714  node pruebas.js code 
+  715  vi pruebas.js 
+  716  node pruebas.js code 
+  717  node pruebas.js code output
+  718  cat output 
+  719  node pruebas.js code output
+  720  vi pruebas.js 
+  721  node pruebas.js
+  722  vi pruebas.js 
+  723  node pruebas.js
+  724  vi pruebas.js 
+  725  node pruebas.js
+  726  vi pruebas.js 
+  727  npm i estraverse
+  728  node pruebas.js
+  729  vi pruebas.js 
+  730  node pruebas.js
+  731  vi pruebas.js 
+  732  npm i escoden
+  733  npm i escodegen
+  734  vi pruebas.js 
+  735  node pruebas.js
+  736  vi pruebas.js 
+  737  node pruebas.js
+  738  vi pruebas.js 
+  739  node pruebas.js
+  740  vi pruebas.js 
+  741  node pruebas.js
+  742  vi pruebas.js 
+  743  node pruebas.js
+  744  vi pruebas.js 
+  745  node pruebas.js
+  746  vi pruebas.js 
+  747  node pruebas.js
+  748  vi pruebas.js 
+  749  node pruebas.js
+  750  vi pruebas.js 
+  751  node pruebas.js
+  752  vi pruebas.js 
+  753  node pruebas.js
+  754  vi pruebas.js 
+  755  node pruebas.js
+  756  vi pruebas.js 
+  757  node pruebas.js
+  758  vi pruebas.js 
+  759  node pruebas.js
+  760  vi pruebas.js 
+  761  node pruebas.js
+  762  vi pruebas.js 
+  763  node pruebas.js
+  764  vi pruebas.js 
+  765  exit
+  766  ls
+  767  exit
+  768  ls
+  769  mkdir P4
+  770  cd P4
+  771  ls
+  772  mkdir base de datos
+  773  ls
+  774  rm *
+  775  rm -rf *
+  776  ls
+  777  mkdir base_de_datos
+  778  ls
+  779  mkdir datos
+  780  cd datos/
+  781  ls
+  782  cd ..
+  783  rm -rf *
+  784  mkdir databases data
+  785  ls
+  786  cd data
+  787  ls
+  788  curl -O http://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.bz2
+  789  tar -xvjf rdf-files.tar.bz2 
+  790  ls
+  791  cat cache/epub/132/pg132.rdf 
+  792  cat rdf
+  793  cd ..
+  794  exit
+  795  cd ~/.config/
+  796  ls
+  797  ls -la
+  798  cd configstore/
+  799  ls
+  800  cd
+  801  cd P4
+  802  ls
+  803  cd databases/
+  804  npm init -y
+  805  npm install --save-dev --save-exact mocha@2.4.5 chai@3.5.0
+  806  vim package.json 
+  807  vim ~/.vimrc 
+  808  vim package.json 
+  809  mkdir test
+  810  ls
+  811  npm test
+  812  cd test/
+  813  vim parse-rdf-test.js
+  814  cd ..
+  815  ls
+  816  cd ../data/cache/epub/132/pg132.rdf test/
+  817  cp ../data/cache/epub/132/pg132.rdf test/
+  818  npm test
+  819  mkdir lib
+  820  cd lib/
+  821  vim parse-rdf.js
+  822  cd ../test/
+  823  vim parse-rdf-test.js 
+  824  npm test
+  825  vim parse-rdf-test.js 
+  826  npm test
+  827  vim ../lib/parse-rdf.js 
+  828  npm test
+  829  cd ..
+  830  git status
+  831  cd ..
+  832  git init
+  833  git remote add ghpl4 https://github.com/ULL-ESIT-PL-1920/p2-t1-testing-carlosdiazc99.git
+  834  git add .ç
+  835  git add .
+  836  git status
+  837  git add .
+  838  ls 
+  839  -ls -l
+  840  ls -l
+  841  ls -la
+  842  git add .
+  843  git add data
+  844  ls data
+  845  cd data
+  846  rm 
+  847  rm rdf-files.tar.bz2 
+  848  cd ..
+  849  git add data
+  850  vim .gitignore
+  851  git add .
+  852  git commit -m "Estructura creada y test de prueba"
+  853  cd databases/
+  854  ls
+  855  rm -rf node_modules/
+  856  cd ..
+  857  vi .gitignore 
+  858  git add .
+  859  git commit -m "Añadido gitignore"
+  860  git push ghpl4 master 
+  861  EXIT
+  862  exit
+  863  ls
+  864  exit
+  865  ls
+  866  cd P4
+  867  ls
+  868  cd databases/
+  869  sudo npm install -g npm-check-updates
+  870  NCU
+  871  ncu
+  872  ncu -u
+  873  ncu -a
+  874  man ncu
+  875  ncu -a
+  876  ncu
+  877  vim gulpfile.js
+  878  npm i --save-dev gulp
+  879  npm i --save-dev gulp-shell
+  880  gulp
+  881  ls
+  882  npm i gulp
+  883  sudo npm i gulp
+  884  gulp
+  885  sudo npm i --save-dev gulp
+  886  gulp
+  887  vim gulpfile.js 
+  888  gulp
+  889  gulp test
+  890  sudo npm i -g gulp
+  891  gulp
+  892  sudo npm i -g gulp-shell
+  893  gulp
+  894  vi gulpfile.js 
+  895  npm test
+  896  ls
+  897  cd ..
+  898  git pull ghpl4 
+  899  npm test
+  900  cd databases/
+  901  npm test
+  902  vim lib/parse-rdf.js 
+  903  cd ..
+  904  ls
+  905  cd ..
+  906  cd P4
+  907  git pull https://github.com/ULL-ESIT-PL-1920/p2-t1-testing-carlosdiazc99.git
+  908  git fetch https://github.com/ULL-ESIT-PL-1920/p2-t1-testing-carlosdiazc99.git
+  909  cd ..
+  910  git clone https://github.com/ULL-ESIT-PL-1920/p2-t1-testing-carlosdiazc99.git
+  911  cd p2-t1-testing-carlosdiazc99/
+  912  ls
+  913  cd databases/
+  914  npm test
+  915  npm i
+  916  sudo npm i -g gulp
+  917  sudo npm i -g gulp-shell
+  918  npm test
+  919  vim gulpfile.js 
+  920  gulp
+  921  vim gulpfile.js 
+  922  gulp
+  923  vim gulpfile.js 
+  924  history
+  925  history > comands.txt
