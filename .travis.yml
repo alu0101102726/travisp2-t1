@@ -1,6 +1,6 @@
 lenguaje: node-js
 install:
- - npm install
+ - sudo npm install
  - gem install bundler
  - cd databases
  - npm test
