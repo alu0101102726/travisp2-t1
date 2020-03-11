@@ -1,5 +1,8 @@
 lenguaje: node-js
+node_js:
+ - 12
 install:
+ - npm cache clean -f
  - npm install
  - gem install bundler
  - npm test
