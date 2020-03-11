@@ -2,6 +2,5 @@ lenguaje: node-js
 install:
  - npm install
  - gem install bundler
- - bundle install
  - cd databases
  - npm test
